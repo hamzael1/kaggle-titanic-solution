@@ -1,4 +1,4 @@
-### This is My solution to the Titanic Prediction Problem on Kaggle, It got a 0.79425 Score.
+### This is My solution to the Titanic Prediction Problem on Kaggle (Score: 0.79425)
 
 - The Solution is divided into two parts: 
   - Part (1/2) contains Exploratory Analysis, Feature Engineering and Preprocessings
